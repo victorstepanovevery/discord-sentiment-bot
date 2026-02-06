@@ -45,19 +45,21 @@ Provide a summary in this format:
   > "[Quote]" — @username in #channel
   > [Message link](url)
 
-**2. 💬 FEEDBACK** (genuine feature requests or product suggestions)
+**2. 💬 FEEDBACK** (genuine feature requests, product suggestions, OR requests for beta access)
 - [Request/suggestion]
   > "[Quote]" — @username in #channel
   > [Message link](url)
 
-**3. ✨ OTHER** (anything else worth noting)
-- [Summary]
+**3. ✨ OTHER**
+Nothing super important.
+
+[Write a brief paragraph summarizing what else was in the messages. Include actual quotes from messages to show what was discussed, but do NOT include usernames or links since this isn't actionable. Write it like a casual brief/report of the vibe and topics. Example: "Mostly casual chat today — someone asked 'when is Android coming?' while comparing to other apps, a few 'thanks!' messages, and some off-topic banter about weekend plans."]
 
 RULES:
 
 1. URGENT: Surface ANY complaint, bug report, or frustration. Even one-offs. We don't want to miss these.
 
-2. FEEDBACK: Only include GENUINE product feedback or feature requests. Use judgment to filter out:
+2. FEEDBACK: Include GENUINE product feedback, feature requests, AND beta access requests. Use judgment to filter out:
    - Jokes or sarcasm
    - Casual chatter / small talk
    - Questions that aren't really requests
@@ -65,9 +67,9 @@ RULES:
    - Messages that mention the app but aren't actionable feedback
    Ask yourself: "Would a product manager actually want to act on this?" If no, skip it.
 
-3. OTHER: Anything noteworthy that doesn't fit above categories.
+3. OTHER: Always write "Nothing super important." then a brief paragraph with quotes showing what was discussed. NO usernames, NO links. Just the vibes and topics.
 
-4. If a category has nothing meaningful, write "Nothing notable today" AND then briefly summarize what WAS in the messages (without links) so we know what was analyzed. For example: "Nothing notable today. Messages were mostly casual greetings, thank-you's, and general chat about unrelated topics."
+4. For URGENT and FEEDBACK: If nothing fits, write "Nothing notable today."
 
 5. Include Discord message links (labeled "Message link") for URGENT and FEEDBACK items only."""
 
