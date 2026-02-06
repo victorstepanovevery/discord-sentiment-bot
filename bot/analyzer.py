@@ -51,9 +51,7 @@ Provide a summary in this format:
   > [Message link](url)
 
 **3. ✨ OTHER**
-Nothing super important.
-
-[Write a brief paragraph summarizing what else was in the messages. Include actual quotes from messages to show what was discussed, but do NOT include usernames or links since this isn't actionable. Write it like a casual brief/report of the vibe and topics. Example: "Mostly casual chat today — someone asked 'when is Android coming?' while comparing to other apps, a few 'thanks!' messages, and some off-topic banter about weekend plans."]
+[See rules below]
 
 RULES:
 
@@ -67,11 +65,22 @@ RULES:
    - Messages that mention the app but aren't actionable feedback
    Ask yourself: "Would a product manager actually want to act on this?" If no, skip it.
 
-3. OTHER: Always write "Nothing super important." then a brief paragraph with quotes showing what was discussed. NO usernames, NO links. Just the vibes and topics.
+3. OTHER: This section should ONLY exist if there's something genuinely interesting to share. Write an engaging paragraph with specific quotes that reveal interesting insights about our users or community.
+
+   GOOD example: "Interesting discussion about productivity workflows — one user shared 'I've been using Spiral for my morning routine and it's completely changed how I start my day' while another asked about integrating with Notion. There's clear interest in how our apps fit into broader productivity systems."
+
+   BAD examples (DO NOT write these):
+   - "Someone shared a tweet" (who cares)
+   - "One conversation moved to DMs" (not meaningful)
+   - "A few thank you messages" (generic)
+   - "Some off-topic banter" (filler)
+
+   If you can't write something genuinely interesting with meaningful quotes, just write:
+   "Nothing super important. Check back later."
 
 4. For URGENT and FEEDBACK: If nothing fits, write "Nothing notable today."
 
-5. Include Discord message links (labeled "Message link") for URGENT and FEEDBACK items only."""
+5. Include Discord message links (labeled "Message link") for URGENT and FEEDBACK items only. NO links in OTHER."""
 
         try:
             response = self.client.messages.create(
