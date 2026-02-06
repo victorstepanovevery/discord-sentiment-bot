@@ -1,0 +1,5 @@
+nextcord
+anthropic
+aiosqlite
+python-dotenv
+pytz
